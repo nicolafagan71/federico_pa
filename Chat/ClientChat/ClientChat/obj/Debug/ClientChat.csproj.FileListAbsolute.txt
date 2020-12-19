@@ -1,0 +1,6 @@
+C:\Temp\Ruby\Chat\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+C:\Temp\Ruby\Chat\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+C:\Temp\Ruby\Chat\ClientChat\ClientChat\obj\Debug\ClientChat.csprojAssemblyReference.cache
+C:\Temp\Ruby\Chat\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+C:\Temp\Ruby\Chat\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+C:\Temp\Ruby\Chat\ClientChat\ClientChat\obj\Debug\ClientChat.pdb

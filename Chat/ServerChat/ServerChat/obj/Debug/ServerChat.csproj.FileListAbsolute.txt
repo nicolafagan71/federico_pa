@@ -1,0 +1,5 @@
+C:\Temp\Ruby\Chat\ServerChat\ServerChat\obj\Debug\ServerChat.csproj.CoreCompileInputs.cache
+C:\Temp\Ruby\Chat\ServerChat\ServerChat\bin\Debug\ServerChat.exe
+C:\Temp\Ruby\Chat\ServerChat\ServerChat\bin\Debug\ServerChat.pdb
+C:\Temp\Ruby\Chat\ServerChat\ServerChat\obj\Debug\ServerChat.exe
+C:\Temp\Ruby\Chat\ServerChat\ServerChat\obj\Debug\ServerChat.pdb
